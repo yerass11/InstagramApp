@@ -1,5 +1,7 @@
 ## Tryna to copy Instagram app for iOS
 
+# i give up with this project
+
 # InstagramApp
 
 ## Overview
